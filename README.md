@@ -26,12 +26,12 @@ Try it out in the [Releases section](https://github.com/xtommas/cryptoAppAndroid
 ![details screen for ether light mode](images/cryptoAppDetailsLight.png) -->
 
 <p align="center">
-  <img alt="Dark" src="images/cryptoAppListDark.png" width="45%" />
+  <img alt="Dark" src="images/CryptoAppListDark.png" width="45%" />
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="images/cryptoAppListLight.png" width="45%" />
+  <img alt="Light" src="images/CryptoAppListLight.png" width="45%" />
 </p>
 <p align="center">
-  <img alt="Dark" src="images/cryptoAppDetailsDark.png" width="45%" />
+  <img alt="Dark" src="images/CryptoAppDetailsDark.png" width="45%" />
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="images/cryptoAppDetailsLight.png" width="45%" />
+  <img alt="Light" src="images/CryptoAppDetailsLight.png" width="45%" />
 </p>
