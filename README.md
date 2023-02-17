@@ -2,6 +2,8 @@
 
 Application that lists the top 100 cryptocurrencies and shows a details page of each one, using the [CoinGecko API](https://www.coingecko.com/en/api) to get the information.
 
+Try it out in the [Releases section](https://github.com/xtommas/cryptoAppAndroid/releases)!
+
 ## 🧠 Concepts used
 
 - MVVM
@@ -15,6 +17,10 @@ Application that lists the top 100 cryptocurrencies and shows a details page of 
 
 ## 📸 Screenshots
 
-![list screen dark mode](images/cryptoAppListDark.png) ![list screen light mode](images/cryptoAppListLight.png)
+![list screen dark mode](images/cryptoAppListDark.png)
+
+![list screen light mode](images/cryptoAppListLight.png)
+
 ![details screen for ether dark mode](images/cryptoAppDetailsDark.png)
+
 ![details screen for ether light mode](images/cryptoAppDetailsLight.png)
