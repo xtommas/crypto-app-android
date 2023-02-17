@@ -17,10 +17,21 @@ Try it out in the [Releases section](https://github.com/xtommas/cryptoAppAndroid
 
 ## 📸 Screenshots
 
-![list screen dark mode](images/cryptoAppListDark.png)
+<!-- ![list screen dark mode](images/cryptoAppListDark.png)
 
 ![list screen light mode](images/cryptoAppListLight.png)
 
 ![details screen for ether dark mode](images/cryptoAppDetailsDark.png)
 
-![details screen for ether light mode](images/cryptoAppDetailsLight.png)
+![details screen for ether light mode](images/cryptoAppDetailsLight.png) -->
+
+<p align="center">
+  <img alt = "Dark" src="images/cryptoAppListDark.png" width="45%" />
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt = "Light" src="images/cryptoAppListLight.png" width="45%" />
+</p>
+<p align="center">
+  <img alt = "Dark" src="images/cryptoAppDetailsDark.png" width="45%" />
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt = "Light" src="images/cryptoAppDetailsLight.png" width="45%" />
+</p>
